@@ -2,6 +2,8 @@
 
 ---
 
+> NOTE: We modified the prompt in `agentless/fl/FL.py` and `agentless/repair/repair.py`. The remained code is original from official repository of [Agentless](https://github.com/OpenAutoCoder/Agentless).
+
 ## Environment Setup
 
 ```shell
